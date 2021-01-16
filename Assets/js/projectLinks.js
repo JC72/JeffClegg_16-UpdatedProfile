@@ -1,3 +1,4 @@
+// Website Link functions
 $("#btnDeploy4").on("click",function(){
     window.open("https://jc72.github.io/JeffClegg_04_CodeQuiz/");
 })
@@ -14,18 +15,41 @@ $("#btnDeploy1").on("click",function(){
     window.open("https://emilyah-01.github.io/Brew_Hopper");
 })
 
-$("#btnGitRep6").on("click",function(){
-    window.open("https://github.com/JC72/JeffClegg_06_WeatherDashboard");
+$("#btnDeploy7").on("click",function(){
+    window.open("https://stormy-lowlands-00833.herokuapp.com/");
+})
+$("#btnDeploy8").on("click",function(){
+    window.open("https://lit-savannah-70105.herokuapp.com/");
+})
+$("#btnDeploy2").on("click",function(){
+    window.open("https://project2-brew-hoppers.herokuapp.com/");
 })
 
-$("#btnGitRep5").on("click",function(){
-    window.open("https://github.com/JC72/JeffClegg_04_CodeQuiz");
+// Repository Link functions
+$("#btnGitRep1").on("click",function(){
+    window.open("https://github.com/EmilyAH-01/Brew_Hopper");
+})
+
+$("#btnGitRep2").on("click",function(){
+    window.open("https://github.com/dolenand/Group-Project-2");
 })
 
 $("#btnGitRep4").on("click",function(){
     window.open("https://github.com/JC72/JeffClegg_05_WorkDayScheduler");
 })
 
-$("#btnGitRep1").on("click",function(){
-    window.open("https://github.com/EmilyAH-01/Brew_Hopper");
+$("#btnGitRep5").on("click",function(){
+    window.open("https://github.com/JC72/JeffClegg_05_WorkDayScheduler");
+})
+
+$("#btnGitRep6").on("click",function(){
+    window.open("https://github.com/JC72/JeffClegg_06_WeatherDashboard");
+})
+
+$("#btnGitRep7").on("click",function(){
+    window.open("https://github.com/JC72/Burger");
+})
+
+$("#btnGitRep8").on("click",function(){
+    window.open("https://github.com/JC72/JeffClegg_11_NoteTaker");
 })
