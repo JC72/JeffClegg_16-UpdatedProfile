@@ -39,7 +39,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
         *NetWorth
 
 
-![Projects](https://github.com/JC72/JeffClegg_16_UpdatedPortfolio/blob/main/Assets/screenshots/Projects.png)
+![Projects](https://github.com/JC72/JeffClegg_16_UpdatedPortfolio/blob/main/Assets/screenshots/NewProjectPage.png)
 
 
 * A Resume Page
