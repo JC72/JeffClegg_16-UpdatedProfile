@@ -33,6 +33,8 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 * A Projects Page
     * This page is where the user can get a brief description of projects that I have currently been working on.
     * Links to the sites where the user can test the applications.
+    * Added a project info button that opens a collapsible container to save space. -NEW
+    * Added a link button to the projects github repository -NEW
     * Added 3 new projects that I worked on:
         *Burger
         *NoteTaker
@@ -47,7 +49,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
     * This iframe gives the user the ability to view, print or download the resume.
     * Updated my resume with new skills and applications learned before the start of Project 2.
 
-![Resume](https://github.com/JC72/JeffClegg_16_UpdatedPortfolio/blob/main/Assets/screenshots/resume.png)
+![Resume](https://github.com/JC72/JeffClegg_16_UpdatedPortfolio/blob/main/Assets/screenshots/UpdatedResume.png)
 
 * A Contact Page
     * This area will displays the to the users several ways to get in contact with me.
@@ -75,6 +77,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 * One Javascript Page
         * Contains: 
         * Event listeners
+        * Collapsible Containers
         
 ## Creators:
 
