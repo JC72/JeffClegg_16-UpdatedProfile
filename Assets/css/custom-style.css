@@ -93,6 +93,12 @@ article {
     padding: 5px;
 }
 
+.btnDeploy1 {
+    background-color: lime;
+    font-weight: bold;
+    padding: 5px;
+}
+
 img {
     max-width: 100%;
 }
