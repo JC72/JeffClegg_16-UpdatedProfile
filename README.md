@@ -8,7 +8,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 ## Links
 
 * [GitHub Repository](https://github.com/JC72/JeffClegg_16_UpdatedPortfolio)
-* [Deployed GitHub IO](https://jc72.github.io/JeffClegg_16-UpdatedPortfolio/) 
+* [Deployed GitHub IO](https://jc72.github.io/JeffClegg_16_UpdatedPortfolio/) 
 
 ### Project Overview
 * Use HTML and CSS and Javascript documents to create a starting professional portfolio containing several pages and links.

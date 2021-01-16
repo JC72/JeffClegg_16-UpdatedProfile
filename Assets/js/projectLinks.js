@@ -35,7 +35,7 @@ $("#btnGitRep2").on("click",function(){
 })
 
 $("#btnGitRep4").on("click",function(){
-    window.open("https://github.com/JC72/JeffClegg_05_WorkDayScheduler");
+    window.open("https://github.com/JC72/JeffClegg_04_CodeQuiz");
 })
 
 $("#btnGitRep5").on("click",function(){
